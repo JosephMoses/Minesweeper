@@ -31,5 +31,11 @@ The timer (Clock class) was the hardest part of this project for us, mainly beca
 
 We became very attentive to multidimensional arrays using rows first and then columns second. This was a small issue we had from the beginning, but was quickly overcame. The confusion with the coordinates happened because in math it is columns (x value) and then rows (y value), but in programming, it is rows, then columns.
 
+GameBoard Class - holds all the information needed for the GUI and determines if the user is a winner
+
+Mines Class - keeps up with mine locations 
+
+Clock Class - keeps up with the timer value
+
 ##Acknowledgements
 Alix Rosarion is co-creator of this Minesweeper project.
