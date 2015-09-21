@@ -15,9 +15,7 @@ This project was a group course assignment for Computer Programming II (Java). T
 
 * Keep selecting locations to clear areas until the game over message is displayed or the winning message is displayed.
 
-![alt text](https://github.com/ShannonAllene/Minesweeper/blob/master/Minesweeper%20Pictures/Game%20Over.png "Game Over")
-
-![alt text](https://github.com/ShannonAllene/Minesweeper/blob/master/Minesweeper%20Pictures/Winner.png "Winner")
+![alt text](https://github.com/ShannonAllene/Minesweeper/blob/master/Minesweeper%20Pictures/Game%20Over.png "Game Over") ![alt text](https://github.com/ShannonAllene/Minesweeper/blob/master/Minesweeper%20Pictures/Winner.png "Winner")
 
 * Run the file again to start a new game.
 *Note that if you want to start a custom game (option 2) you will need to enter the diminsions of the table and the number of bombs.*
