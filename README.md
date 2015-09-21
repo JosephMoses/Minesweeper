@@ -6,18 +6,27 @@ This project was a group course assignment for Computer Programming II (Java). T
 ##Instructions
 **Note that Project3.java needs to be compiled first.**
 * First, a selection must be made to start the game. Select the default (option 1) for first time players, which is gives an 8x8 board with 10 bombs located on the board.
+* 
 ![alt text](https://github.com/ShannonAllene/Minesweeper/blob/master/Minesweeper%20Pictures/Initial%20Screen.png "Initial Screen")
-* Select your first location on the grid to start your initial game. **Note that the timer will start once the first location is selected.**
+
+* Select your first location on the grid to start your initial game. *Note that the timer will start once the first location is selected.*
+* 
 ![alt text](https://github.com/ShannonAllene/Minesweeper/blob/master/Minesweeper%20Pictures/FIrst%20Click.png "First Click")
+
 * Keep selecting locations to clear areas until the game over message is displayed or the winning message is displayed.
+* 
 ![alt text](https://github.com/ShannonAllene/Minesweeper/blob/master/Minesweeper%20Pictures/Game%20Over.png "Game Over")
+
 ![alt text](https://github.com/ShannonAllene/Minesweeper/blob/master/Minesweeper%20Pictures/Winner.png "Winner")
+
 * Run the file again to start a new game.
-**Note that if you want to start a custom game (option 2) you will need to enter the diminsions of the table and the number of bombs.**
+*Note that if you want to start a custom game (option 2) you will need to enter the diminsions of the table and the number of bombs.*
+
 ![alt text](https://github.com/ShannonAllene/Minesweeper/blob/master/Minesweeper%20Pictures/custom%20option.png "Custom Option")
+
 * To save your game at any time, click the "Save" button on your game board.
 * To start a new game while playing your current game, click the "New Game" button on your game board.
-* To load the last saved game, select (option 3) from the list. **Note that this will only work after you have saved a previous game.**
+* To load the last saved game, select (option 3) from the list. *Note that this will only work after you have saved a previous game.*
 
 ##Acknowledgements
 Alix Rosarion is co-creator of this Minesweeper project.
