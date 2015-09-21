@@ -26,5 +26,10 @@ This project was a group course assignment for Computer Programming II (Java). T
 * To start a new game while playing your current game, click the "New Game" button on your game board.
 * To load the last saved game, select (option 3) from the list. *Note that this will only work after you have saved a previous game.*
 
+##Notes
+The timer (Clock class) was the hardest part of this project for us, mainly because we did not know how to make it work continuously and had to do a lot of research on it
+
+We became very attentive to multidimensional arrays using rows first and then columns second. This was a small issue we had from the beginning, but was quickly overcame. The confusion with the coordinates happened because in math it is columns (x value) and then rows (y value), but in programming, it is rows, then columns.
+
 ##Acknowledgements
 Alix Rosarion is co-creator of this Minesweeper project.
